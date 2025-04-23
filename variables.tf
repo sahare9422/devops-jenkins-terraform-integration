@@ -8,7 +8,7 @@ variable "region" {
      default = "ap-south-1"
 }
 variable "availabilityZone" {
-     default = "ap-south-1"
+     default = "ap-south-1a"
 }
 variable "instanceTenancy" {
     default = "default"
