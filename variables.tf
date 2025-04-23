@@ -5,10 +5,10 @@ variable "secret_key" {
      default = "xxxxxx"
 }
 variable "region" {
-     default = "us-east-1"
+     default = "ap-south-1"
 }
 variable "availabilityZone" {
-     default = "us-east-1a"
+     default = "ap-south-1"
 }
 variable "instanceTenancy" {
     default = "default"
